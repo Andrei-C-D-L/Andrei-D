@@ -1,1 +1,5 @@
-# Andrei-D
+Meu nome é Andrei Lohmann
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
